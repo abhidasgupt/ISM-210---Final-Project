@@ -4,7 +4,7 @@
 ### Description
 Analyzing employee and order data for a certain U.S. store to create a performance report. Involves using data cleaning, data analysis, and data visualization to come to conclusions about sales conditions and performance.
 
-### Packages
+### Used
 - Pandas
 - Matplotlib
 - Seaborn
